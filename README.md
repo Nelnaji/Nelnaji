@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nawfal pronounced Naoufel.
+<h1 align="center">### Hi there 👋 I'm Nawfal pronounced Naoufel.</h1>
 
 <p align="center">I am currently a web developper based in Belgium, currently learning at Molengeek.</p>
 
