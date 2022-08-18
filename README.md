@@ -1,6 +1,6 @@
-<h1 align="center">### Hi there 👋 I'm Nawfal pronounced Naoufel.</h1>
+<h1 align="center">Hi there 👋 I'm Nawfal.</h1>
 
-<p align="center">I am currently a web developper based in Belgium, currently learning at Molengeek.</p>
+<p align="center">I am currently a web developper based in Belgium, currently learning FullStack developpement at Molengeek.</p>
 
 
 <p align="center">I mainly use : JS, React, and Laravel/PHP</p>
