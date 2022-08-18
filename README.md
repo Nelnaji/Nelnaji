@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Nawfal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelnaji&count_private=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelnaji)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelnaji&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
