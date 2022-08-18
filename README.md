@@ -5,7 +5,7 @@
 
 <p align="center">I mainly use : JS, React, and Laravel/PHP</p>
 
-<table border="none">
+<table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Nelnaji&count_private=true&theme=onedark&show_icons=true"></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelnaji&theme=onedark&layout=compact"></td>
