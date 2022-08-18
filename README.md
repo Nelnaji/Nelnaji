@@ -11,3 +11,5 @@
     <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelnaji&theme=onedark&layout=compact"></td>
   </tr>
 </table>
+
+<a href="https://wakatime.com/@813be282-d926-46eb-b838-14e9565e0803"><img src="https://wakatime.com/badge/user/813be282-d926-46eb-b838-14e9565e0803.svg" alt="Total time coded since Mar 28 2022" /></a>
