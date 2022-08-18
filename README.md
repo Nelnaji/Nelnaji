@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Nawfal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelnaji&count_private=true&theme=onedark)]
+[![Nawfal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelnaji&count_private=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelnaji)](https://github.com/anuraghazra/github-readme-stats)
