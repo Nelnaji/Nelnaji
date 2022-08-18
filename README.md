@@ -5,11 +5,7 @@
 
 <p align="center">I mainly use : JS, React, and Laravel/PHP</p>
 
-
-![Nawfal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelnaji&count_private=true&theme=onedark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelnaji&theme=onedark&layout=compact)
-<table>
+<table border="none">
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Nelnaji&count_private=true&theme=onedark&show_icons=true"></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelnaji&theme=onedark&layout=compact"></td>
