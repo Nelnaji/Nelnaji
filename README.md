@@ -1,9 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Nawfal pronounced Naoufel.
+
+I am currently a web developper based in Belgium, currently learning at Molengeek.
+
+I mainly use : JS, React, and Laravel/PHP
 
 <!--
 **Nelnaji/Nelnaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![Nawfal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelnaji&count_private=true&theme=onedark&show_icons=true)
 
