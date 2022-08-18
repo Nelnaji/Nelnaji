@@ -8,6 +8,6 @@
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Nelnaji&count_private=true&theme=onedark&show_icons=true"></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelnaji&theme=onedark&layout=compact"></td>
+    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelnaji&theme=onedark&layout=compact"></td>
   </tr>
 </table>
