@@ -12,4 +12,4 @@
     
   </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elkna&theme=onedark&layout=compact">
+<img halign="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Elkna&theme=onedark&layout=compact">
