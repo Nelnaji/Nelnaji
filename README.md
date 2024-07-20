@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Nawfal.</h1>
 
-<p align="center">I am a web developer based in Belgium, currently learning FullStack developement at Molengeek .</p>
+<p align="center">I am a Software Developper based in Belgium, currently an Intern in Java developement at Digitalcity.brussels .</p>
 
 
-<p align="center">I mainly use : JS, React, and Laravel/PHP</p>
+<p align="center">I mainly use : JAVA, Angular, and TypeScript</p>
 
 <table>
   <tr>
