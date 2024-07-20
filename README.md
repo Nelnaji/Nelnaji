@@ -4,6 +4,7 @@
 
 
 <p align="center">I mainly use : JAVA, Angular, and TypeScript</p>
+<p align="center">I Have also worked as a front End web developper : With React and Laravel</p>
 
 <table>
   <tr>
